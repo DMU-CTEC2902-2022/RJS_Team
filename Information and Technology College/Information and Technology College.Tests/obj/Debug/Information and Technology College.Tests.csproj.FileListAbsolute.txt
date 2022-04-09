@@ -1,0 +1,35 @@
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Information and Technology College.Tests.dll.config
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Information and Technology College.Tests.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Information and Technology College.Tests.pdb
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Information and Technology College.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Information and Technology College.pdb
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Information and Technology College.dll.config
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\obj\Debug\Information and Technology College.Tests.csproj.AssemblyReference.cache
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\obj\Debug\Information and Technology College.Tests.csproj.CoreCompileInputs.cache
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\obj\Debug\Information and Technology College.Tests.csproj.CopyComplete
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\obj\Debug\Information and Technology College.Tests.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\obj\Debug\Information and Technology College.Tests.pdb
