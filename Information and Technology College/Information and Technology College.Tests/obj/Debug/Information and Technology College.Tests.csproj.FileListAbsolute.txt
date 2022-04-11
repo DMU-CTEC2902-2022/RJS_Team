@@ -33,3 +33,8 @@ C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Tech
 C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\obj\Debug\Information and Technology College.Tests.csproj.CopyComplete
 C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\obj\Debug\Information and Technology College.Tests.dll
 C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\obj\Debug\Information and Technology College.Tests.pdb
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\EntityFramework.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\WebGrease.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\EntityFramework.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College.Tests\bin\Debug\Antlr3.Runtime.pdb
