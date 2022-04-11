@@ -233,3 +233,29 @@ C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Tech
 C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\obj\Debug\Information and Technology College.csproj.CoreCompileInputs.cache
 C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\obj\Debug\Information and Technology College.dll
 C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\obj\Debug\Information and Technology College.pdb
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\EntityFramework.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\EntityFramework.SqlServer.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\System.Buffers.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\System.Memory.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\System.Numerics.Vectors.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\System.Text.Encodings.Web.dll
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\EntityFramework.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\EntityFramework.SqlServer.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\System.Buffers.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\System.Memory.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\System.Numerics.Vectors.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\richa\Documents\1De Montfort University 2nd Year\1\Information and Technology College\Information and Technology College\bin\System.Text.Encodings.Web.xml

@@ -1,4 +1,5 @@
-﻿using Information_and_Technology_College;
+﻿using DebuggerCollege.Controllers;
+using Information_and_Technology_College;
 using Information_and_Technology_College.Controllers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;

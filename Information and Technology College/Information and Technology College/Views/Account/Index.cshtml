@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Information_and_Technology_College.Models.UserAccount>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Users Registered</h2>
+
+<div class="col-md-4">
+    <p><a href="~/Account/Register" class="btn btn-primary btn-lg">Create new &raquo;</a></p>
+    <p><a href="~/Account/Login" class="btn btn-primary btn-lg">Login &raquo;</a></p>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+
+        </tr>
+    }
+
+</table>
+<div class="row">
+    <img src="https://www.stirkhouse.co.uk/wp-content/uploads/2020/03/Covid-19-White-Banner-scaled.jpg" width="1150" height="100">
+</div>
+<div class="col-md-4">
+    <a href="https://www.mcdonalds.com/gb/en-gb.html"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/01802388175009.5dce0c213382f.gif" width="1150" height="100"></a>
+</div>
