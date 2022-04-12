@@ -8,11 +8,13 @@ namespace DebuggerCollege.Controllers
 {
     public class HomeController : Controller
     {
+        // GET: Index
         public ActionResult Index()
         {
             return View();
         }
 
+        // GET: About
         public ActionResult About()
         {
             ViewBag.Message = "What we do.";
@@ -20,6 +22,7 @@ namespace DebuggerCollege.Controllers
             return View();
         }
 
+        // GET: Contact
         public ActionResult Contact()
         {
             ViewBag.Message = "Get in Touch.";

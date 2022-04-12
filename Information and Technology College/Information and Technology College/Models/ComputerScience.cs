@@ -5,6 +5,7 @@ using System.Web;
 
 namespace Information_and_Technology_College.Models
 {
+    //Data for the modules
     public class ComputerScience
     {
         public string ModuleCode { get; set; }

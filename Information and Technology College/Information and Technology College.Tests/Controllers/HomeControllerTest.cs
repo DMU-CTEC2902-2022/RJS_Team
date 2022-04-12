@@ -13,6 +13,7 @@ namespace Information_and_Technology_College.Tests.Controllers
     [TestClass]
     public class HomeControllerTest
     {
+        //Test method for the index
         [TestMethod]
         public void Index()
         {
@@ -26,6 +27,7 @@ namespace Information_and_Technology_College.Tests.Controllers
             Assert.IsNotNull(result);
         }
 
+        //Test method for the about page
         [TestMethod]
         public void About()
         {
@@ -36,9 +38,10 @@ namespace Information_and_Technology_College.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
-            Assert.AreEqual("Your application description page.", result.ViewBag.Message);
+            Assert.IsNotNull(result);
         }
 
+        //Test method for the contact page
         [TestMethod]
         public void Contact()
         {

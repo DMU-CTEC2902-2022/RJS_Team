@@ -14,6 +14,7 @@ namespace Information_and_Technology_College.Controllers
             return View();
         }
 
+        // GET: Modules
         public ActionResult Modules()
         {
             return View();

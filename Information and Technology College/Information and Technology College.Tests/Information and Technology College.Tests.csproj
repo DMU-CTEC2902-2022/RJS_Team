@@ -92,6 +92,7 @@
     <Compile Include="Controllers\ComputerScienceControllerTest.cs" />
     <Compile Include="Controllers\SoftwareEngineeringControllerTest.cs" />
     <Compile Include="Controllers\CyberSecurityControllerTest.cs" />
+    <Compile Include="Controllers\AccountControllerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Controllers\HomeControllerTest.cs" />
   </ItemGroup>
