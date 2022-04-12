@@ -8,6 +8,7 @@ namespace Information_and_Technology_College.Tests.Controllers
     [TestClass]
     public class CyberSecurityControllerTest
     {
+        //Test method for the index page
         [TestMethod]
         public void Index()
         {
@@ -21,6 +22,7 @@ namespace Information_and_Technology_College.Tests.Controllers
             Assert.IsNotNull(result);
         }
 
+        //Test method for the modules page
         [TestMethod]
         public void Modules()
         {

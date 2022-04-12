@@ -8,6 +8,7 @@ namespace Information_and_Technology_College.Models
 {
     public class UserAccount
     {
+        //Used to save the different data from users
         [Key]
         public int UserID { get; set; }
         [Required(ErrorMessage ="First Name is required")]

@@ -7,6 +7,7 @@ using System.Web.Mvc;
 
 namespace Information_and_Technology_College.Controllers
 {
+    //Index page used to implement database
     public class AccountController : Controller
     {
         // GET: Account
@@ -18,11 +19,13 @@ namespace Information_and_Technology_College.Controllers
             }
         }
 
+        // GET: Register page
         public ActionResult Register()
         {
             return View();
         }
 
+        //Code used to implement data from models to register page
         [HttpPost]
         public ActionResult Register(UserAccount account)
         {
@@ -39,12 +42,13 @@ namespace Information_and_Technology_College.Controllers
             return View();
         }
 
-        //Login
+        // GET: Login page
         public ActionResult Login()
         {
             return View();
         }
 
+        //Code used to implement data from login page
         [HttpPost]
         public ActionResult Login(UserAccount user)
         {
@@ -65,6 +69,7 @@ namespace Information_and_Technology_College.Controllers
             return View();
         }
 
+        //Logged in page displayed a username once they have logged in
         public ActionResult LoggedIn()
         {
             if (Session["UserId"] != null)
