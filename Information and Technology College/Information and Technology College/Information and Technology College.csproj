@@ -210,7 +210,9 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Index.cshtml">
+      <BrowseToURL>~/Home/Index</BrowseToURL>
+    </Content>
     <Content Include="Views\SoftwareEngineering\Index.cshtml" />
     <Content Include="Views\CyberSecurity\Index.cshtml" />
     <Content Include="Views\ComputerScience\Index.cshtml" />
@@ -218,6 +220,9 @@
     <Content Include="Views\Account\Login.cshtml" />
     <Content Include="Views\Account\LoggedIn.cshtml" />
     <Content Include="Views\Account\Index.cshtml" />
+    <Content Include="Views\ComputerScience\Modules.cshtml" />
+    <Content Include="Views\SoftwareEngineering\Modules.cshtml" />
+    <Content Include="Views\CyberSecurity\Modules.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

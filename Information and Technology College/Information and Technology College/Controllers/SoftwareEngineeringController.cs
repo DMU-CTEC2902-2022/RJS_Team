@@ -13,5 +13,10 @@ namespace Information_and_Technology_College.Controllers
         {
             return View();
         }
+
+        public ActionResult Modules()
+        {
+            return View();
+        }
     }
 }
